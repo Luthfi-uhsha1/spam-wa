@@ -14,7 +14,7 @@ update:
 	@git pull
 
 run:
-	@./main
+	make run
 
 reset:
 	@rm main
